@@ -20,7 +20,7 @@
          <children>
             <TextField fx:id="text" layoutX="14.0" layoutY="48.0" />
             <Button layoutX="223.0" layoutY="48.0" mnemonicParsing="false" onAction="#otpravit" text="отправить" />
-            <TextField fx:id="otKogo" layoutX="14.0" layoutY="14.0" promptText="ваш email" />
+            <TextField fx:id="otKogo" layoutX="14.0" layoutY="14.0" promptText="ваш login" />
             <TextArea fx:id="chat" layoutX="-7.0" layoutY="79.0" prefHeight="200.0" prefWidth="320.0" />
          </children>
       </AnchorPane>
